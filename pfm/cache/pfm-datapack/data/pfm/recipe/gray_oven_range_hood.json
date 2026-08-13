@@ -1,0 +1,25 @@
+{
+  "group": "kitchen",
+  "result": {
+    "id": "pfm:gray_oven_range_hood",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:gray_concrete"
+    },
+    {
+      "item": "minecraft:gray_concrete"
+    },
+    {
+      "item": "minecraft:gray_concrete"
+    },
+    {
+      "item": "minecraft:gray_concrete"
+    },
+    {
+      "item": "minecraft:redstone_lamp"
+    }
+  ],
+  "type": "pfm:simple_furniture"
+}

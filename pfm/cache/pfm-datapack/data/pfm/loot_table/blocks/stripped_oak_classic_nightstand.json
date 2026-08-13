@@ -1,0 +1,14 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "name": "pfm:stripped_oak_classic_nightstand",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

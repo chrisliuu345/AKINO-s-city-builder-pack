@@ -1,0 +1,25 @@
+{
+  "group": "bathroom",
+  "result": {
+    "id": "pfm:white_mirror",
+    "count": 2
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:white_concrete"
+    },
+    {
+      "item": "minecraft:white_concrete"
+    },
+    {
+      "item": "minecraft:white_concrete"
+    },
+    {
+      "item": "minecraft:glass"
+    },
+    {
+      "item": "minecraft:glass"
+    }
+  ],
+  "type": "pfm:simple_furniture"
+}

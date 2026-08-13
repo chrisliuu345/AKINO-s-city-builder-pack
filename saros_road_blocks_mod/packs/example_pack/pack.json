@@ -1,0 +1,16 @@
+{
+  "id": "example_pack",
+  "name": "Example Pack",
+  "version": "1.0",
+  "author": "Sarocesch",
+  "lines": [
+    {
+      "id": "example_line",
+      "displayName": "Example White Stripe",
+      "textures": {
+        "top": "textures/example_line/top.png",
+        "icon": "textures/example_line/icon.png"
+      }
+    }
+  ]
+}

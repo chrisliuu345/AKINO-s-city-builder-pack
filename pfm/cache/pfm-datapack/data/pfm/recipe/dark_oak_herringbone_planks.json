@@ -1,0 +1,17 @@
+{
+  "key": {
+    "X": {
+      "item": "minecraft:dark_oak_slab"
+    }
+  },
+  "pattern": [
+    "XX",
+    "XX"
+  ],
+  "result": {
+    "id": "pfm:dark_oak_herringbone_planks",
+    "count": 4
+  },
+  "category": "building",
+  "type": "minecraft:crafting_shaped"
+}

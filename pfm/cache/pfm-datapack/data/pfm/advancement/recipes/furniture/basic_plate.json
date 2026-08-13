@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "has_white_concrete": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:white_concrete"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:basic_plate"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_white_concrete"
+    ]
+  ],
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "pfm:basic_plate"
+    ]
+  }
+}

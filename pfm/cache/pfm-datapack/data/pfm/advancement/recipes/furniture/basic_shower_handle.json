@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "has_lever": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:lever"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:basic_shower_handle"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_lever"
+    ]
+  ],
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "pfm:basic_shower_handle"
+    ]
+  }
+}

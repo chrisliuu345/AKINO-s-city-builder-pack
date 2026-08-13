@@ -1,0 +1,28 @@
+{
+  "group": "bathroom",
+  "result": {
+    "id": "pfm:basic_toilet",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:stone_button"
+    },
+    {
+      "item": "minecraft:quartz_block"
+    },
+    {
+      "item": "minecraft:quartz_block"
+    },
+    {
+      "item": "minecraft:quartz_block"
+    },
+    {
+      "item": "minecraft:quartz_block"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "type": "pfm:simple_furniture"
+}

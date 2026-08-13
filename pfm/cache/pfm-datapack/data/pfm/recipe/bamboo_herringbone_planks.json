@@ -1,0 +1,17 @@
+{
+  "key": {
+    "X": {
+      "item": "minecraft:bamboo_slab"
+    }
+  },
+  "pattern": [
+    "XX",
+    "XX"
+  ],
+  "result": {
+    "id": "pfm:bamboo_herringbone_planks",
+    "count": 4
+  },
+  "category": "building",
+  "type": "minecraft:crafting_shaped"
+}

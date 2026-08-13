@@ -1,0 +1,14 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "name": "pfm:oak_kitchen_wall_counter",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

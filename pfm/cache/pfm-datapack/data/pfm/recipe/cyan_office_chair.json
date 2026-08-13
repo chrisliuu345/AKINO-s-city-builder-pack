@@ -1,0 +1,43 @@
+{
+  "group": " ",
+  "result": {
+    "id": "pfm:office_chair",
+    "count": 1,
+    "components": {
+      "pfm:color": "cyan"
+    }
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:cyan_wool"
+    },
+    {
+      "item": "minecraft:cyan_wool"
+    },
+    {
+      "item": "minecraft:cyan_wool"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "item": "minecraft:stone_button"
+    },
+    {
+      "item": "minecraft:stone_button"
+    },
+    {
+      "item": "minecraft:stone_button"
+    },
+    {
+      "item": "minecraft:stone_button"
+    }
+  ],
+  "type": "pfm:simple_furniture"
+}

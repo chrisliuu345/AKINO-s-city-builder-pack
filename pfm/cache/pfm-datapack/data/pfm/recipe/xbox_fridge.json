@@ -1,0 +1,37 @@
+{
+  "group": "kitchen",
+  "result": {
+    "id": "pfm:xbox_fridge",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:black_concrete"
+    },
+    {
+      "item": "minecraft:black_concrete"
+    },
+    {
+      "item": "minecraft:black_concrete"
+    },
+    {
+      "item": "minecraft:black_concrete"
+    },
+    {
+      "item": "minecraft:black_concrete"
+    },
+    {
+      "item": "minecraft:black_concrete"
+    },
+    {
+      "item": "minecraft:chest"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:white_concrete"
+    }
+  ],
+  "type": "pfm:simple_furniture"
+}

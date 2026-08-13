@@ -1,0 +1,22 @@
+{
+  "group": "bathroom",
+  "result": {
+    "id": "pfm:basic_shower_handle",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:lever"
+    },
+    {
+      "item": "minecraft:lever"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "type": "pfm:simple_furniture"
+}

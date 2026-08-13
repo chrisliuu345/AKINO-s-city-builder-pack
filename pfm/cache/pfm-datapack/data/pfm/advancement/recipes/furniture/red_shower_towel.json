@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "has_red_wool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:red_wool"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:red_shower_towel"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_red_wool"
+    ]
+  ],
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "pfm:red_shower_towel"
+    ]
+  }
+}

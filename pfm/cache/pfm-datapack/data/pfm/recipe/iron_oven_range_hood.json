@@ -1,0 +1,25 @@
+{
+  "group": "kitchen",
+  "result": {
+    "id": "pfm:iron_oven_range_hood",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:redstone_lamp"
+    }
+  ],
+  "type": "pfm:simple_furniture"
+}

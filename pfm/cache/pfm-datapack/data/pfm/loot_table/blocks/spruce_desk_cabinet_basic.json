@@ -1,0 +1,14 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "name": "pfm:spruce_desk_cabinet_basic",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

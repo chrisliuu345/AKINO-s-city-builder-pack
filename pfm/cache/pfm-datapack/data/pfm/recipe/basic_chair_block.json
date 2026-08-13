@@ -1,0 +1,40 @@
+{
+  "result": {
+    "outputClass": "BasicChairBlock",
+    "count": 4
+  },
+  "supportedVariants": [
+    "minecraft:oak",
+    "minecraft:bamboo",
+    "minecraft:spruce",
+    "minecraft:birch",
+    "minecraft:jungle",
+    "minecraft:acacia",
+    "minecraft:cherry",
+    "minecraft:dark_oak",
+    "minecraft:mangrove",
+    "minecraft:crimson",
+    "minecraft:warped",
+    "minecraft:stone",
+    "minecraft:calcite",
+    "minecraft:light_wood",
+    "minecraft:dark_wood",
+    "minecraft:pink_wood",
+    "minecraft:quartz",
+    "minecraft:netherite",
+    "minecraft:granite",
+    "minecraft:diorite",
+    "minecraft:andesite",
+    "minecraft:basalt",
+    "minecraft:blackstone",
+    "minecraft:tuff",
+    "minecraft:deepslate"
+  ],
+  "ingredients": {
+    "variantChildren": {
+      "secondary": 2,
+      "base": 4
+    }
+  },
+  "type": "pfm:dynamic_furniture"
+}

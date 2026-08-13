@@ -1,0 +1,25 @@
+{
+  "group": "kitchen",
+  "result": {
+    "id": "pfm:white_oven_range_hood",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:white_concrete"
+    },
+    {
+      "item": "minecraft:white_concrete"
+    },
+    {
+      "item": "minecraft:white_concrete"
+    },
+    {
+      "item": "minecraft:white_concrete"
+    },
+    {
+      "item": "minecraft:redstone_lamp"
+    }
+  ],
+  "type": "pfm:simple_furniture"
+}

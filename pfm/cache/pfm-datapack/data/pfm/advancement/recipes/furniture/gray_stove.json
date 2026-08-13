@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "has_gray_concrete": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:gray_concrete"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:gray_stove"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_gray_concrete"
+    ]
+  ],
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "pfm:gray_stove"
+    ]
+  }
+}

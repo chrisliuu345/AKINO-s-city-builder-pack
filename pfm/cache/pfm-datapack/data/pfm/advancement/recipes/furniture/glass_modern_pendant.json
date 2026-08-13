@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "has_white_stained_glass": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:white_stained_glass"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pfm:glass_modern_pendant"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_white_stained_glass"
+    ]
+  ],
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "pfm:glass_modern_pendant"
+    ]
+  }
+}

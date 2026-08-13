@@ -1,0 +1,28 @@
+{
+  "group": "bathroom",
+  "result": {
+    "id": "pfm:light_gray_shower_towel",
+    "count": 2
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:light_gray_wool"
+    },
+    {
+      "item": "minecraft:light_gray_wool"
+    },
+    {
+      "item": "minecraft:light_gray_wool"
+    },
+    {
+      "item": "minecraft:light_gray_wool"
+    },
+    {
+      "item": "minecraft:light_gray_concrete"
+    },
+    {
+      "item": "minecraft:light_gray_concrete"
+    }
+  ],
+  "type": "pfm:simple_furniture"
+}

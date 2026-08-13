@@ -1,0 +1,17 @@
+{
+  "key": {
+    "X": {
+      "item": "minecraft:warped_slab"
+    }
+  },
+  "pattern": [
+    "XX",
+    "XX"
+  ],
+  "result": {
+    "id": "pfm:warped_herringbone_planks",
+    "count": 4
+  },
+  "category": "building",
+  "type": "minecraft:crafting_shaped"
+}

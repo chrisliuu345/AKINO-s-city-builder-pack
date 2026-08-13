@@ -1,0 +1,23 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "conditions": [
+            {
+              "block": "pfm:acacia_magenta_simple_bed",
+              "properties": {
+                "part": "head"
+              },
+              "condition": "minecraft:block_state_property"
+            }
+          ],
+          "name": "pfm:acacia_magenta_simple_bed",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}
